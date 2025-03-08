@@ -96,7 +96,7 @@
     "@types/react-router-config": "^5.0.1",
     "@types/react-router-dom": "^5.1.5",
     "antd": "^4.2.2",
-    "axios": "^0.19.2",
+    "axios": "^1.8.2",
     "babel-plugin-import": "^1.13.0",
     "customize-cra": "^0.9.1",
     "jquery": "^3.5.1",
